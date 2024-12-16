@@ -13,6 +13,9 @@
         <mxCell id="I_RUdTy2oGeLLe4ps_qa-3" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="310" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="I_RUdTy2oGeLLe4ps_qa-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
